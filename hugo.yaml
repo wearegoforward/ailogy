@@ -62,7 +62,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Profile
-    url: /ailogy/profile
+    url: /profile
   - title: Features
     url: /
   - title: Pricing
@@ -88,7 +88,7 @@ params:
       icon: user
       links:
       - text: Profile
-        url: /ailogy/profile
+        url: /profile
       - text: Account
         url: /
       - text: Settings
